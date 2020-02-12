@@ -70,6 +70,6 @@ def runner
 
   end
   end_game(card_total)
-  
+
   # code runner here
 end
